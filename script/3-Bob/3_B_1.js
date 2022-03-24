@@ -1,8 +1,4 @@
 /* 
-OGOHLANTIRISH 2_B_4 Tushunchasi quyidagicha 3 - Bob 1 - dars. Ma'roqli dars! :)
-*/
-
-/* 
 ---------------------------------------------------------------------
 ======================================= 3 - Bob 1 - dars ---> Start :)
 ---------------------------------------------------------------------
@@ -18,7 +14,7 @@ OGOHLANTIRISH 2_B_4 Tushunchasi quyidagicha 3 - Bob 1 - dars. Ma'roqli dars! :)
 // Funktsiya ko'p parametrlarni qabul qilishi mumkin, lekin parametrlarning bir qismi yoki barchasi ixtiyoriy bo'lishi mumkin. Parametrlar uchun hech qanday qiymat o'tkazilmasa, ular sukut bo'yicha "undefined" bo'ladi. Biroq, ba'zida parametrlar ba'zi qiymatlarga ega bo'lishi kerak, masalan, standart qiymatlar. ES6 standartidan oldin parametr qiymatlarini aniqlanmaganligini tekshirish kerak edi:
 
 // function sum(x, y){
- 
+
 //     if(y === undefined) y = 5;
 //     if(x === undefined) x = 8;
 //     const z = x + y;
@@ -33,7 +29,7 @@ OGOHLANTIRISH 2_B_4 Tushunchasi quyidagicha 3 - Bob 1 - dars. Ma'roqli dars! :)
 // Shuningdek, biz to'g'ridan-to'g'ri parametrlar uchun standart qiymatlarni belgilashimiz mumkin:
 
 // function sum(x = 8, y = 5){
- 
+
 //     const z = x + y;
 //     console.log(z);
 // }
@@ -42,3 +38,4 @@ OGOHLANTIRISH 2_B_4 Tushunchasi quyidagicha 3 - Bob 1 - dars. Ma'roqli dars! :)
 // sum(6, 4)   // 10
 
 // Agar x va y parametrlariga hech qanday qiymat o'tkazilmasa, ular mos ravishda 5 va 10 raqamlarining qiymatlari sifatida qabul qilinadi. Bu usul undefined bilan solishtirishdan ko'ra qisqaroq va intuitivdir.
+
