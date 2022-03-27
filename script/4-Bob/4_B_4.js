@@ -72,7 +72,7 @@
 
 /* 
 
-name : Tom
+name : Tom  
 age : 26
 print : print(){
     console.log(`Name: ${this.name}  Age: ${this.age}`);
