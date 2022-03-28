@@ -1,12 +1,14 @@
-/* 
+/*
 OGOHLANTIRISH 2_B_4 Tushunchasi quyidagicha 2 - Bob 4 - dars. Ma'roqli dars! :)
 */
 
-/* 
+/*
 ---------------------------------------------------------------------
 ======================================= 2 - Bob 4 - dars ---> Start :)
 ---------------------------------------------------------------------
 */
+
+// Siz atamsi - Senga o'zgardi...
 
 /* ==================================== Shartli operatorlar ?: va ?? --->> */
 
@@ -43,26 +45,26 @@ Ifodalar operand sifatida ham harakat qilishi mumkin:
 // const result = a < b ? a + b : a - b;
 // console.log(result); // 3
 
-/* 
+/*
 Ushbu kod misolida birinchi operand avvalgi misoldagi kabi shartni ifodalaydi, lekin ikkinchi va uchinchi operandlar arifmetik amallarni ifodalaydi. Agar a doimiyning qiymati b doimiysi qiymatidan kichik bo'lsa, u holda ikkinchi operand qaytariladi - a + b. Shunga ko'ra, natija konstantasi a va b yig'indisiga teng bo'ladi.
 */
 
-/* 
+/*
 Agar a doimiysining qiymati b doimiysi qiymatidan katta yoki unga teng bo'lsa, uchinchi operand a - b qaytariladi. Shunga ko'ra, doimiy natija a va b o'rtasidagi farqga teng bo'ladi.
 */
 
-/* 
+/*
 ========== --- Operator?? --- =========
 */
 
-/* 
+/*
 Operator ?? (nullish coalescing operatori) null va undefined uchun qiymatni tekshirish imkonini beradi. U ikkita operandni qabul qiladi:
 */
-/* 
+/*
 chap_operand ?? o'ng_operand
 */
 
-/* 
+/*
 Operator chap operandning qiymatini qaytaradi, agar u null EMAS va aniqlanmagan bo'lsa. Aks holda, to'g'ri operandning qiymati qaytariladi. Misol uchun:
 */
 
@@ -89,19 +91,19 @@ Operator chap operandning qiymatini qaytaradi, agar u null EMAS va aniqlanmagan 
 // const result7 = message ?? hello;
 // console.log(result7);   // Hi JavaScript
 
-/* 
+/*
  ===----- >> Operator =??
 */
 
-/* 
+/*
 Operator?? , ??= operatori koʻrinishidagi modifikatsiyaga ega boʻlib, u ham null va undefined uchun qiymatni tekshirish imkonini beradi. U ikkita operandni oladi:
 */
 
-/* 
+/*
 chap_operand ?? = o'ng_operand
 */
 
-/* 
+/*
 Agar chap operand null va aniqlanmagan bo'lsa, u holda unga o'ng operandning qiymati beriladi. Aks holda, chap operand o'z qiymatini saqlab qoladi. Misol uchun:
 */
 
@@ -110,7 +112,7 @@ Agar chap operand null va aniqlanmagan bo'lsa, u holda unga o'ng operandning qiy
 // text ??= message;
 // console.log(text);  // Hello work!
 
-/* 
+/*
 Bu erda matn o'zgaruvchisi null yoki aniqlanmagan, shuning uchun u o'z qiymatini saqlab qoladi. Teskari misol:
 */
 

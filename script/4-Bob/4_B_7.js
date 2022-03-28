@@ -41,4 +41,4 @@
 // console.log(tom.maxAge); // 99
 // console.log(john.maxAge); // 110
 
-// Va maxAge xususiyatiga kirishda javascript birinchi navbatda ob'ektning xossalari orasidan ushbu xususiyatni qidiradi va agar u topilmagan bo'lsa, u prototipning xususiyatlariga kiradi. Xuddi shu narsa usullarga ham tegishli.
+// Va maxAge xususiyatiga kirishda javascript birinchi navbatda ob'ektning xossalari orasidan ushbu xususiyatni qidiradi va agar u topilmagan bo'lsa, u prototipning xususiyatlariga kiradi. Xuddi shu narsa usullarga ham tegishli.z
