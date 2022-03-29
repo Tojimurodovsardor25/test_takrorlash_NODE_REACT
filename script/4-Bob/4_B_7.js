@@ -4,6 +4,10 @@
 ---------------------------------------------------------------------
 */
 
+/*
+ILTIMOS USHBU MA'LUMOTLAR CHALA YOKI XATO BO'LSA GITHUB MUAMMOLAR BO'LIMIDA YANGI SUHBAT OCHIB TO'LDIRIB O'Z HISSANGIZNI QO'SHING, SHU YERDA EKANLIGINGIZDAN HURSANDMIZ! :)
+*/
+
 /* ==================================== Ob'ekt kengaytmasi. Prototype - (prototip)--->> */
 
 // Konstruktorda xossa va usullarni bevosita belgilashdan tashqari, biz prototip xususiyatidan ham foydalanishimiz mumkin. Har bir funktsiya prototip xususiyatiga ega bo'lib, u funksiya prototipini ifodalaydi. Ya'ni User.prototype xossasi User ob'yektlarining prototipini ifodalaydi. User.prototype da belgilangan har qanday xususiyat va usullar barcha Foydalanuvchi ob'ektlari uchun umumiy bo'ladi.

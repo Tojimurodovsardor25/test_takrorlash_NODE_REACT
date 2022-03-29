@@ -4,6 +4,10 @@
 ---------------------------------------------------------------------
 */
 
+/*
+ILTIMOS USHBU MA'LUMOTLAR CHALA YOKI XATO BO'LSA GITHUB MUAMMOLAR BO'LIMIDA YANGI SUHBAT OCHIB TO'LDIRIB O'Z HISSANGIZNI QO'SHING, SHU YERDA EKANLIGINGIZDAN HURSANDMIZ! :)
+*/
+
 /* ==================================== Hoisting - (Yuk ko'tarivchi , e'lon qiluvchi , bajaruvchi) --->> */
 
 // Funktsiyalar xatti-harakatlarni bekor qilish qobiliyatiga ega. Qayta belgilash bekor qilingan funksiya bilan bir xil nomga ega boʻlgan oʻzgaruvchiga anonim funksiyani belgilash orqali amalga oshiriladi:

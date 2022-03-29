@@ -4,6 +4,10 @@
 ---------------------------------------------------------------------
 */
 
+/*
+ILTIMOS USHBU MA'LUMOTLAR CHALA YOKI XATO BO'LSA GITHUB MUAMMOLAR BO'LIMIDA YANGI SUHBAT OCHIB TO'LDIRIB O'Z HISSANGIZNI QO'SHING, SHU YERDA EKANLIGINGIZDAN HURSANDMIZ! :)
+*/
+
 /* ==================================== Funktsiya parametrlari --->> */
 
 // JavaScript-dagi funksiya parametrlarni qabul qilishi mumkin. Parametrlar ma'lumotlarning funktsiyaga uzatilishini ifodalaydi. Parametrlar funksiya nomidan keyin qavs ichida ko'rsatilgan.

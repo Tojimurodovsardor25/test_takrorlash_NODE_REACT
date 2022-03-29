@@ -4,9 +4,13 @@
 ---------------------------------------------------------------------
 */
 
+/*
+ILTIMOS USHBU MA'LUMOTLAR CHALA YOKI XATO BO'LSA GITHUB MUAMMOLAR BO'LIMIDA YANGI SUHBAT OCHIB TO'LDIRIB O'Z HISSANGIZNI QO'SHING, SHU YERDA EKANLIGINGIZDAN HURSANDMIZ! :)
+*/
+
 /* ==================================== Meros olish --->> */
 
-//JavaScript merosni qo'llab-quvvatlaydi, bu bizga yangi turdagi ob'ektlarni yaratishda, agar kerak bo'lsa, ularning funksionalligini mavjudlaridan meros qilib olish imkonini beradi. Misol uchun, bizda individual foydalanuvchini ifodalovchi User ob'ekti bo'lishi mumkin. Shuningdek, xodimni ifodalovchi Xodim ob'ekti ham bo'lishi mumkin. Ammo ishchi ham foydalanuvchi bo'lishi mumkin va shuning uchun uning barcha xususiyatlari va usullariga ega bo'lishi kerak. Misol uchu
+// JavaScript merosni qo'llab-quvvatlaydi, bu bizga yangi turdagi ob'ektlarni yaratishda, agar kerak bo'lsa, ularning funksionalligini mavjudlaridan meros qilib olish imkonini beradi. Misol uchun, bizda individual foydalanuvchini ifodalovchi User ob'ekti bo'lishi mumkin. Shuningdek, xodimni ifodalovchi Xodim ob'ekti ham bo'lishi mumkin. Ammo ishchi ham foydalanuvchi bo'lishi mumkin va shuning uchun uning barcha xususiyatlari va usullariga ega bo'lishi kerak. Misol uchu
 
 
 // foydalanuvchi konstruktori

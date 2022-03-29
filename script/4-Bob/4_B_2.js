@@ -4,6 +4,10 @@
 ---------------------------------------------------------------------
 */
 
+/*
+ILTIMOS USHBU MA'LUMOTLAR CHALA YOKI XATO BO'LSA GITHUB MUAMMOLAR BO'LIMIDA YANGI SUHBAT OCHIB TO'LDIRIB O'Z HISSANGIZNI QO'SHING, SHU YERDA EKANLIGINGIZDAN HURSANDMIZ! :)
+*/
+
 /* ==================================== Ob'ektlarga joylashtirilgan ob'ektlar va massivlar --->> */
 
 // Ba'zi ob'ektlar boshqa ob'ektlarni xususiyat sifatida o'z ichiga olishi mumkin. Misol uchun, bir qator xususiyatlarga ega bo'lishi mumkin bo'lgan mamlakat ob'ekti mavjud. Ushbu mulklardan biri kapitalni ifodalashi mumkin. Ammo poytaxtda biz o'z mulklarimizni ham ajratib ko'rsatishimiz mumkin, masalan, nomi, aholisi, tashkil etilgan yili:

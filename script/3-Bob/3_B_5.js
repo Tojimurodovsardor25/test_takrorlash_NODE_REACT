@@ -4,6 +4,10 @@
 ---------------------------------------------------------------------
 */
 
+/*
+ILTIMOS USHBU MA'LUMOTLAR CHALA YOKI XATO BO'LSA GITHUB MUAMMOLAR BO'LIMIDA YANGI SUHBAT OCHIB TO'LDIRIB O'Z HISSANGIZNI QO'SHING, SHU YERDA EKANLIGINGIZDAN HURSANDMIZ! :)
+*/
+
 /* ==================================== Shakl - (naqish) moduli --->> */
 
 // Funktsiya natijani qaytarishi mumkin. Buning uchun return iborasidan foydalaning, shundan so'ng qaytarish qiymati ko'rsatiladi:

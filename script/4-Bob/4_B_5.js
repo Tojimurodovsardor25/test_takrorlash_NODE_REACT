@@ -4,6 +4,10 @@
 ---------------------------------------------------------------------
 */
 
+/*
+ILTIMOS USHBU MA'LUMOTLAR CHALA YOKI XATO BO'LSA GITHUB MUAMMOLAR BO'LIMIDA YANGI SUHBAT OCHIB TO'LDIRIB O'Z HISSANGIZNI QO'SHING, SHU YERDA EKANLIGINGIZDAN HURSANDMIZ! :)
+*/
+
 /* ==================================== Funktsiyalardagi ob'ektlar --->> */
 
 // Funktsiyalar qiymatlarni qaytarishi mumkin. Ammo bu qiymatlar ibtidoiy ma'lumotlarni - raqamlarni, satrlarni ifodalashi shart emas, balki murakkab ob'ektlar ham bo'lishi mumkin.

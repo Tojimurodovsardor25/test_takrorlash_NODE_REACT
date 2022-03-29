@@ -4,6 +4,10 @@
 ---------------------------------------------------------------------
 */
 
+/*
+ILTIMOS USHBU MA'LUMOTLAR CHALA YOKI XATO BO'LSA GITHUB MUAMMOLAR BO'LIMIDA YANGI SUHBAT OCHIB TO'LDIRIB O'Z HISSANGIZNI QO'SHING, SHU YERDA EKANLIGINGIZDAN HURSANDMIZ! :)
+*/
+
 /* ==================================== Funksiya huddi obyekt sifatida yoki kabi. Call va apply usullari --->> */
 
 // JavaScript-da funktsiya ham ob'ekt - Function ob'ekti bo'lib, shuningdek, prototipi, xususiyatlari, usullariga ega. Dasturda foydalaniladigan barcha funksiyalar Funktsiya ob'ektlari bo'lib, uning barcha xossalari va usullariga ega.

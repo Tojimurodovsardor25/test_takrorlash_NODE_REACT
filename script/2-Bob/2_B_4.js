@@ -3,6 +3,10 @@ OGOHLANTIRISH 2_B_4 Tushunchasi quyidagicha 2 - Bob 4 - dars. Ma'roqli dars! :)
 */
 
 /*
+ILTIMOS USHBU MA'LUMOTLAR CHALA YOKI XATO BO'LSA GITHUB MUAMMOLAR BO'LIMIDA YANGI SUHBAT OCHIB TO'LDIRIB O'Z HISSANGIZNI QO'SHING, SHU YERDA EKANLIGINGIZDAN HURSANDMIZ! :)
+*/
+
+/*
 ---------------------------------------------------------------------
 ======================================= 2 - Bob 4 - dars ---> Start :)
 ---------------------------------------------------------------------

@@ -4,6 +4,10 @@
 ---------------------------------------------------------------------
 */
 
+/*
+ILTIMOS USHBU MA'LUMOTLAR CHALA YOKI XATO BO'LSA GITHUB MUAMMOLAR BO'LIMIDA YANGI SUHBAT OCHIB TO'LDIRIB O'Z HISSANGIZNI QO'SHING, SHU YERDA EKANLIGINGIZDAN HURSANDMIZ! :)
+*/
+
 /* ==================================== Ob'ektga yo'naltirilgan dasturlash --->> */
 
 // Ob'ektga yo'naltirilgan dasturlash bugungi kunda ilovalarni ishlab chiqishda ustun paradigmalardan biri bo'lib, JavaScript-da biz OOP-dan to'liq foydalanishimiz mumkin. Shu bilan birga, JavaScript-ga nisbatan ob'ektga yo'naltirilgan dasturlashning o'ziga xos xususiyatlari bor.

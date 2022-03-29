@@ -4,6 +4,10 @@
 ---------------------------------------------------------------------
 */
 
+/*
+ILTIMOS USHBU MA'LUMOTLAR CHALA YOKI XATO BO'LSA GITHUB MUAMMOLAR BO'LIMIDA YANGI SUHBAT OCHIB TO'LDIRIB O'Z HISSANGIZNI QO'SHING, SHU YERDA EKANLIGINGIZDAN HURSANDMIZ! :)
+*/
+
 /* ==================================== Usul va xususiyatlarning mavjudligini tekshirish va sanab o'tish --->> */
 
 // Ob'ektda yangi xususiyatlar va usullarni dinamik ravishda aniqlashda, ulardan foydalanishdan oldin bunday usullar va xususiyatlar mavjudligini tekshirish muhim bo'lishi mumkin. Buning uchun javascriptda in operatoridan foydalanish mumkin. U quyidagi sintaksisga ega: 

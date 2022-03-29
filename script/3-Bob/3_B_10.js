@@ -4,6 +4,10 @@
 ---------------------------------------------------------------------
 */
 
+/*
+ILTIMOS USHBU MA'LUMOTLAR CHALA YOKI XATO BO'LSA GITHUB MUAMMOLAR BO'LIMIDA YANGI SUHBAT OCHIB TO'LDIRIB O'Z HISSANGIZNI QO'SHING, SHU YERDA EKANLIGINGIZDAN HURSANDMIZ! :)
+*/
+
 /* ==================================== O'q - (nayza yoki saylovchi) funksiyalar --->> */
 
 // O'q funktsiyalari muntazam funktsiyalarning ta'rifini qisqartirish imkonini beradi. O'q funktsiyalari o'q belgisi (=>) bilan shakllantiriladi, undan oldin qavslar ichida funktsiya parametrlari va undan keyin funktsiyaning haqiqiy tanasi qo'yiladi.

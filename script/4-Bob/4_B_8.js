@@ -4,6 +4,10 @@
 ---------------------------------------------------------------------
 */
 
+/*
+ILTIMOS USHBU MA'LUMOTLAR CHALA YOKI XATO BO'LSA GITHUB MUAMMOLAR BO'LIMIDA YANGI SUHBAT OCHIB TO'LDIRIB O'Z HISSANGIZNI QO'SHING, SHU YERDA EKANLIGINGIZDAN HURSANDMIZ! :)
+*/
+
 /* ==================================== Inkapsulyatsiya--->> */
 
 // Inkapsulyatsiya ob'ektga yo'naltirilgan dasturlashning asosiy tushunchalaridan biri bo'lib, ob'ekt holatini tashqi tomondan to'g'ridan-to'g'ri kirishdan yashirishni anglatadi. Odatiy bo'lib, barcha ob'ekt xususiyatlari ochiq, foydalanish mumkin va biz ularga dasturning istalgan joyidan kirishimiz mumkin.
