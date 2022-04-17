@@ -55,4 +55,77 @@ ILTIMOS USHBU MA'LUMOTLAR CHALA YOKI XATO BO'LSA GITHUB MUAMMOLAR BO'LIMIDA YANG
 
 // Birinchi parametr massivdan qiymatlarni olish uchun ishlatiladigan elementning boshlang'ich indeksiga ishora qiladi. Va ikkinchi parametr - siz nusxa olmoqchi bo'lgan oxirgi indeks.
 
-// Birinchi parametr massivdan qiymatlarni olish uchun ishlatiladigan elementning boshlang'ich indeksiga ishora qiladi. Va ikkinchi parametr - siz nusxa olmoqchi bo'lgan oxirgi indeks.
+// Misol uchun, keling, yangi massivdagi elementlarni 1-indeksdan boshlab 4-indeksgacha tanlaylik, shu jumladan:
+
+// const users = ["Tom", "Sam", "Bill", "Alice", "Kate"];
+// const people = users.slice(1, 4);
+// console.log(people);        // ["Sam", "Bill", "Alice"]
+
+// Va massivni indekslash noldan boshlanganligi sababli, yangi massiv ikkinchi, uchinchi va to'rtinchi elementlarni o'z ichiga oladi.
+
+// Agar faqat boshlang'ich indeks ko'rsatilgan bo'lsa, u holda nusxa ko'chirish massiv oxirigacha amalga oshiriladi:
+
+// const users = ["Tom", "Sam", "Bill", "Alice", "Kate"];
+// const people = users.slice(2);  // ikkinchi index dan to oxirigacha..
+// console.log(people);        // ["Bill", "Alice", "Kate"]
+
+// push()
+
+// Push() usuli elementni massiv oxiriga qo'shadi:
+
+// const people = [];
+// people.push("Tom");
+// people.push("Sam");
+// people.push("Bob", "Mike");
+
+// console.log("Massivda people elementlari: ", people.length);
+// console.log(people); // ["Tom", "Sam", "Bob", "Mike"]
+
+// pop()
+
+// pop() usuli massivdan oxirgi elementni olib tashlaydi:
+
+// const people = ["Tom", "Sam", "Bob", "Mike"];
+
+// const lastPerson = people.pop(); // massivdan oxirgi elementni chiqarib olamiz
+// console.log(lastPerson );   // Mike
+// console.log(people);    // ["Tom", "Sam", "Bob"]
+
+// shift()
+
+// shift() usuli massivdan chiqarib oladi va uni o'chiradi
+
+// const people = ["Tom", "Sam", "Bob", "Mike"];
+
+// const firstPerson = people.shift(); // massivdan oxirgi elementni chiqarib olamiz
+// console.log(firstPerson);   // Tom
+// console.log(people);    // ["Sam", "Bob", "Mike"]
+
+// unshift()
+
+// unshift() usuli massiv boshiga yangi element qo'shadi:
+
+// const people = ["Tom", "Sam", "Bob"];
+
+// people.unshift("Alice");
+// console.log(people);    // ["Alice", "Tom", "Sam", "Bob"]
+
+// Elementlarni o'chirish index.splice() bo'yicha
+
+// Splice() usuli ma'lum bir indeksdan elementlarni olib tashlaydi. Masalan, uchinchi indeksdan elementlarni olib tashlash:
+
+// const people = ["Tom", "Sam", "Bill", "Alice", "Kate"];
+// const deleted = people.splice(3);
+// console.log(deleted);       // [ "Alice", "Kate" ]
+// console.log(people);         // [ "Tom", "Sam", "Bill" ]
+
+// Splice usuli olib tashlangan elementlarni yangi massiv sifatida qaytaradi.
+
+// Bunday holda, o'chirish massivning boshidan amalga oshiriladi. Agar siz salbiy indeksdan o'tsangiz, o'chirish massivning oxiridan amalga oshiriladi. Masalan, oxirgi elementni olib tashlaymiz:
+
+// const people = ["Tom", "Sam", "Bill", "Alice", "Kate"];
+// const deleted = people.splice(-1);
+// console.log(deleted);       // [ "Kate" ]
+// console.log(people);         // ["Tom", "Sam", "Bill", "Alice"]
+
+// Usulning qo'shimcha versiyasi olib tashlanadigan elementlar sonini belgilash imkonini beradi. Masalan, birinchi indeksdan uchta elementni olib tashlaymiz:
